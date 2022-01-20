@@ -171,6 +171,16 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "Dave",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "18"
     }
   ]
 }
